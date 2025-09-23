@@ -1,0 +1,44 @@
+{
+  "term": "January IAP",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "legacy_uid": "559fd121-9c8a-566c-9275-67187cf3d680",
+  "instructors": {
+    "content": [
+      "e042c8f9-995f-cc11-0a2a-5aafa674c5e6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "76ca7f7a-b12a-87ba-fb4f-5b3fa92b74e7",
+    "website": "esd-34-system-architecture-january-iap-2007"
+  },
+  "course_title": "System Architecture",
+  "course_description": "This course covers principles and methods for technical System Architecture. It presents a synthetic view including: the resolution of ambiguity to identify system goals and boundaries; the creative process of mapping form to function; and the analysis of complexity and methods of decomposition and re-integration. Industrial speakers and faculty present examples from various industries. Heuristic and formal methods are presented. Restricted to SDM (System Design and Management) students.\n",
+  "department_numbers": [
+    "ESD"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ESD.34",
+  "course_image_thumbnail": {
+    "content": "c48c037d-cc52-07e5-d3c0-a1c062d43fe5",
+    "website": "esd-34-system-architecture-january-iap-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "site_uid": "ce8b5486-083e-4825-b938-7e7caf9c7b55",
+  "site_short_id": "esd.34-january-iap-2007",
+  "site_url_path": "courses/esd-34-system-architecture-january-iap-2007",
+  "title": "Course Metadata"
+}
