@@ -7,6 +7,8 @@ description: This resource contains a paper summarizing the role and influence o
 file: /courses/esd-34-system-architecture-january-iap-2007/f7480959c0f1ada1e0a804400eb682e8_arch_esd.pdf
 file_size: 419996
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

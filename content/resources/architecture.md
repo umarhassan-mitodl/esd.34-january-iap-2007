@@ -5,6 +5,8 @@ description: This resource provides information about definitions, the architect
 file: /courses/esd-34-system-architecture-january-iap-2007/867c3f503dd4fe6f5ad16db3b6506283_architecture.pdf
 file_size: 68091
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

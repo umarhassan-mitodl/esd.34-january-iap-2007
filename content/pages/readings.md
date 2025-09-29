@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information about required textbooks, assigned
   readings, creativity workshop readings, and additional references.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -235,19 +237,19 @@ Vance, M., and D. Deacon. _Think Out of the Box_. Franklin Lakes, NJ: Career Pre
 
 ### Recommended Papers
 
-Akin, O., and C. Akin. "{{% resource_link "db5c2a80-38b8-4a87-8a8f-2dcf07cf3785" "On the Process of Creativity in Puzzles, Inventions, and Designs" %}}." _Automation in Construction_ 7, no. 2–3 (1998): 123–38.
+Akin, O., and C. Akin. "[On the Process of Creativity in Puzzles, Inventions, and Designs](http://dx.doi.org/10.1016/S0926-5805(97)00057-5)." _Automation in Construction_ 7, no. 2–3 (1998): 123–38.
 
-Verbitsky, M. "Semantic TRIZ." ({{% resource_link "2fe68469-c777-4e22-a983-27bd9c0ece36" "PDF - 2.3 MB" %}})
+Verbitsky, M. "Semantic TRIZ." ([PDF - 2.3 MB](https://pdfs.semanticscholar.org/a3fe/e18cae12fb8a57a966442fbf40e387d0fc98.pdf?_ga=2.9647862.237155237.1566834416-159250059.1566239404))
 
-Lerner, Leonid. "Genrich Altshuller: Father of TRIZ." ({{% resource_link "9dbe36c9-ca01-4161-a51c-fe8df1208d75" "PDF" %}})
+Lerner, Leonid. "Genrich Altshuller: Father of TRIZ." ([PDF](http://www.aitriz.org/articles/TRIZFeatures/30383039-4D6973687261.pdf))
 
 ### Websites
 
-Altier, W. J. "{{% resource_link "85149eb8-1547-4388-96c2-a90bd42e1603" "A Process for Creativity" %}}."
+Altier, W. J. "[A Process for Creativity](http://www.winstonbrill.com/bril001/html/article_index/articles/1-50/article22_body.html)."
 
-Breneman, J. A. J. "{{% resource_link "71d11d2c-3e00-4ee7-8723-953fc9a5163b" "Exploring Women's Creativity" %}}."
+Breneman, J. A. J. "[Exploring Women's Creativity](http://web.archive.org/web/20170813083913/http://www.womenfolk.com/creativity/)."
 
-Mind Tools. "{{% resource_link "791f46dd-8a8a-48c0-b9e7-2be38b0d2ad5" "DO IT - A Simple Creativity Process" %}}."
+Mind Tools. "[DO IT - A Simple Creativity Process](http://www.mindtools.com/pages/article/newCT_09.htm)."
 
 {{< anchor "Additional_References" >}}{{< /anchor >}}Additional References
 --------------------------------------------------------------------------

@@ -5,6 +5,8 @@ description: This resource contains a matrix of simple systems as a supplement t
 file: /courses/esd-34-system-architecture-january-iap-2007/bc3b0bc48fcf72e703d16b5a55e169e1_os2_matrix_simpl.pdf
 file_size: 22320
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

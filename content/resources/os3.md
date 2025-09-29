@@ -4,6 +4,8 @@ description: Homework assignment.
 file: /courses/esd-34-system-architecture-january-iap-2007/8937258cc2aae3d22ff366e887304cc7_os3.pdf
 file_size: 50570
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

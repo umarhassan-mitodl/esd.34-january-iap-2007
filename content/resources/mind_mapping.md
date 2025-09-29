@@ -4,6 +4,8 @@ description: Lecture slides about the mind mapping tool, Radiant Thinking.
 file: /courses/esd-34-system-architecture-january-iap-2007/de4f11885480b6dc8e82ff0842d4b8d5_mind_mapping.pdf
 file_size: 474159
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

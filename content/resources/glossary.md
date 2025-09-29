@@ -5,6 +5,8 @@ description: This resource contains a mapping between key terms and the lectures
 file: /courses/esd-34-system-architecture-january-iap-2007/c4bd0c0292ccd3e7059bb734682d4e87_glossary.pdf
 file_size: 48079
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

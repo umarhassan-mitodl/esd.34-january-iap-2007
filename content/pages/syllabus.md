@@ -3,6 +3,8 @@ content_type: page
 description: This section provides information about system architecture, learning
   objectives, strategy and structure, books, grading, grading policy, dissemination
   policy, policy on academic integrity, and a calendar of lecture and workshop sessions.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -200,7 +202,7 @@ System architecture is an evolving field, and good and creative new thoughts and
 Policy on Academic Integrity
 ----------------------------
 
-SDM students come from the corporate environment, where it is important to get a good answer to the question at hand, but not necessarily important to be original or cite sources of ideas use. This is not the case at MIT, where it is important to create original work, or cite the source of ideas very carefully and completely. Quoting MIT Policies and Procedures, "MIT assumes that all students come to the Institute for a serious purpose and expects them to be responsible individuals who demand of themselves {{% resource_link "9f037471-bffe-4508-93be-ee265902b017" "high standards of honesty and personal conduct" %}}." The penalties for violation of this policy are severe, and will be applied in this subject. These policies underscore the importance in academia of creativity and proper acknowledgment of sources. We strongly recommend that you work as individuals or teams as indicated on each assignment, and produce original work, or work which cites the contribution of others and sources appropriately.
+SDM students come from the corporate environment, where it is important to get a good answer to the question at hand, but not necessarily important to be original or cite sources of ideas use. This is not the case at MIT, where it is important to create original work, or cite the source of ideas very carefully and completely. Quoting MIT Policies and Procedures, "MIT assumes that all students come to the Institute for a serious purpose and expects them to be responsible individuals who demand of themselves [high standards of honesty and personal conduct](https://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/procedures-dealing-student-academic-dishonesty)." The penalties for violation of this policy are severe, and will be applied in this subject. These policies underscore the importance in academia of creativity and proper acknowledgment of sources. We strongly recommend that you work as individuals or teams as indicated on each assignment, and produce original work, or work which cites the contribution of others and sources appropriately.
 
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------

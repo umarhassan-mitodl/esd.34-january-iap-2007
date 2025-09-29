@@ -7,6 +7,8 @@ description: Lecture slides about creativity, nature, design rules and combinato
 file: /courses/esd-34-system-architecture-january-iap-2007/60ee25fc760c67f2e8a05d57809ad073_creativity_wkshp.pdf
 file_size: 1211888
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
