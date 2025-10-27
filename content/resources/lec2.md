@@ -5,8 +5,6 @@ description: Lecture slides about definition closure, reflections, form, functio
 file: /courses/esd-34-system-architecture-january-iap-2007/119970d5c8944785abb7d2da18bd72d9_lec2.pdf
 file_size: 1459857
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

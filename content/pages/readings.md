@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information about required textbooks, assigned
   readings, creativity workshop readings, and additional references.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -237,19 +235,19 @@ Vance, M., and D. Deacon. _Think Out of the Box_. Franklin Lakes, NJ: Career Pre
 
 ### Recommended Papers
 
-Akin, O., and C. Akin. "[On the Process of Creativity in Puzzles, Inventions, and Designs](http://dx.doi.org/10.1016/S0926-5805(97)00057-5)." _Automation in Construction_ 7, no. 2–3 (1998): 123–38.
+Akin, O., and C. Akin. "{{% resource_link "6c0fd853-27f8-4197-b1f4-be9ff9d1517f" "On the Process of Creativity in Puzzles, Inventions, and Designs" %}}." _Automation in Construction_ 7, no. 2–3 (1998): 123–38.
 
-Verbitsky, M. "Semantic TRIZ." ([PDF - 2.3 MB](https://pdfs.semanticscholar.org/a3fe/e18cae12fb8a57a966442fbf40e387d0fc98.pdf?_ga=2.9647862.237155237.1566834416-159250059.1566239404))
+Verbitsky, M. "Semantic TRIZ." ({{% resource_link "76f9621e-d8ad-4f2b-9cdb-a1cfdecfb0a6" "PDF - 2.3 MB" %}})
 
-Lerner, Leonid. "Genrich Altshuller: Father of TRIZ." ([PDF](http://www.aitriz.org/articles/TRIZFeatures/30383039-4D6973687261.pdf))
+Lerner, Leonid. "Genrich Altshuller: Father of TRIZ." ({{% resource_link "2425de8e-2ca5-493a-9175-4ccfa2ee0ca7" "PDF" %}})
 
 ### Websites
 
-Altier, W. J. "[A Process for Creativity](http://www.winstonbrill.com/bril001/html/article_index/articles/1-50/article22_body.html)."
+Altier, W. J. "{{% resource_link "8516e45c-7ba3-4077-822f-1b40b8e7691c" "A Process for Creativity" %}}."
 
-Breneman, J. A. J. "[Exploring Women's Creativity](http://web.archive.org/web/20170813083913/http://www.womenfolk.com/creativity/)."
+Breneman, J. A. J. "{{% resource_link "4fd519ec-560f-4d3f-841d-cda7d799eb26" "Exploring Women's Creativity" %}}."
 
-Mind Tools. "[DO IT - A Simple Creativity Process](http://www.mindtools.com/pages/article/newCT_09.htm)."
+Mind Tools. "{{% resource_link "4534e2f5-9e31-465e-ad28-83501f1219fa" "DO IT - A Simple Creativity Process" %}}."
 
 {{< anchor "Additional_References" >}}{{< /anchor >}}Additional References
 --------------------------------------------------------------------------

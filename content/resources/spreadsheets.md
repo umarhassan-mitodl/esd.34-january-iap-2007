@@ -6,8 +6,6 @@ description: 'This resource contains five architecture model spreadsheets as a h
 file: /courses/esd-34-system-architecture-january-iap-2007/1c4021fb1a2d952cf9a12b696eb6ce20_spreadsheets.zip
 file_size: 40144
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

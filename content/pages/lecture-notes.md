@@ -4,8 +4,6 @@ description: This section provides information on the course's lecture and works
   sessions, and a glossary of key terms and the lectures where they are introduced
   and defined. The workshop files are courtesy of Thomas H. Speller, Jr. and are used
   with permission.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

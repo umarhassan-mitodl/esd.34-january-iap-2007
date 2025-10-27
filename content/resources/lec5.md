@@ -6,8 +6,6 @@ description: Lecture slides about reflection on operations, interfaces, alternat
 file: /courses/esd-34-system-architecture-january-iap-2007/34d72b9ec5c758314aaf02c2a1d06b7f_lec5.pdf
 file_size: 487087
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

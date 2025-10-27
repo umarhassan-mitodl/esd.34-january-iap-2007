@@ -7,8 +7,6 @@ description: Lecture slides about reflection on needs, goals for a medium system
 file: /courses/esd-34-system-architecture-january-iap-2007/f568e654559136f2935eec18cd3b0572_lec6.pdf
 file_size: 457569
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

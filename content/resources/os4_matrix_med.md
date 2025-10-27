@@ -5,8 +5,6 @@ description: This resource contains a matrix of medium systems as a supplement t
 file: /courses/esd-34-system-architecture-january-iap-2007/ede6d9ca28670ae0b8441ae34acf6e15_os4_matrix_med.pdf
 file_size: 23362
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
